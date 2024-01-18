@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salonisikriwal
-- 👀 I’m interested in learning interesting things about technology and use to draw sletches  in my free time 
+- 👀 I’m interested in learning interesting things about technology and use to draw sketches  in my free time 
 - 🌱 I’m currently learning web development and Java 
 - 💞️ I’m looking to collaborate on small projects 
 - 📫 How to reach me salonisikriwal4@gmail.comm
